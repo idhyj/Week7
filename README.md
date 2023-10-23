@@ -5,7 +5,7 @@ I created a bullet game using keyPressed() to control the keyboard directions.
 
 1. You can change the direction of the bullet by using the left and right arrow keys.
 2. You need to hit the red circle with the bullet.
-   ㄴYou can also hear sound effects when you hit the red circle.
+   -> You can also hear sound effects when you hit the red circle.
 3. When the total score reaches 5, you win!
 4. You can restart the game by pressing 'restart' button.
 
