@@ -1,7 +1,6 @@
 # Week7
 <Bullet Game>
 I created a bullet game using keyPressed() to control the keyboard directions.
-------------------------------------------------------------------------------------
 1. You can change the direction of the bullet by using the left and right arrow keys.
 2. You need to hit the red circle with the bullet.
    ㄴYou can also hear sound effects when you hit the red circle.
